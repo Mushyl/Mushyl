@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]!
+# 👋 Hi, I’m [Cristian]!
 
 👀 I’m a **Junior Developer** passionate about coding and problem-solving.  
 💻 I love working with **Java, Python, and PL/SQL** to build efficient and scalable applications.  
