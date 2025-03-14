@@ -1,6 +1,6 @@
-# 👋 Hi, I’m [Cristian]!
+# 👋 Hi, I’m Cristian!
 
-👀 I’m a **Junior Developer** passionate about coding and problem-solving.  
+👀 I’m a **Junior Developer** passionate about coding.  
 💻 I love working with **Java, Python, and PL/SQL** to build efficient and scalable applications.  
 🌱 I’m always eager to **learn new technologies** and improve my skills.  
 💡 I enjoy **exchanging ideas** and collaborating with other developers to create something amazing!  
